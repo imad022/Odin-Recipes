@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+}
+
+h2 {
+  width: 50%;
+  text-align: center;
+  background-color: sandybrown;
+  background-position: right;
+}
+
+ul {
+  width: 50%;
+  display: table;
+  margin: 0 auto;
+}
